@@ -12,7 +12,7 @@ void main()
 	//printf("¬ведите первое число = ");
 	//scanf_s("%d", &a);
 	//printf("¬ведите второе число = ");
-	//scanf_s("%d", &b);
+	scanf_s("%d", &b);
 	if (a < b) {
 		min = a;
 		max = b;
